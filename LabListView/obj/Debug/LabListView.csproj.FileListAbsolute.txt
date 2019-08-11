@@ -1,0 +1,15 @@
+C:\Users\Negro\source\repos\LabListView\LabListView\bin\Debug\LabListView.exe.config
+C:\Users\Negro\source\repos\LabListView\LabListView\bin\Debug\LabListView.exe
+C:\Users\Negro\source\repos\LabListView\LabListView\bin\Debug\LabListView.pdb
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.csprojAssemblyReference.cache
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\MainWindow.g.cs
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\App.g.cs
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView_MarkupCompile.cache
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView_MarkupCompile.lref
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\MainWindow.baml
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.g.resources
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.Properties.Resources.resources
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.csproj.GenerateResource.cache
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.csproj.CoreCompileInputs.cache
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.exe
+C:\Users\Negro\source\repos\LabListView\LabListView\obj\Debug\LabListView.pdb
